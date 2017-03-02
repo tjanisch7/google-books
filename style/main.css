@@ -1,0 +1,20 @@
+#body {
+	background: url(../img/books.jpg);
+	background-size: cover;
+	color: #ffeb3b;
+}
+
+#info {
+	margin-top: 40px;
+}
+
+#search {
+	color: black;
+}
+
+#books {
+	background-color: #fff;
+	color: black;
+	
+
+}
